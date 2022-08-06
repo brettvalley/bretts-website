@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 👋 Hi, 'm Brett!
+I"m a technical writer, ghostwriter, and book editor with over 20 years' experience in writing and publishing. I'm intellectually curious, technically proficient, and able to create, develop, and publish user support and education materials, websites, and other information-heavy deliverables.
 
-You can use the [editor on GitHub](https://github.com/brettvalley/bretts-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 📚 Services
+- Technical Writing
+- Ghostwriting
+- Book editing
+- Book proposal development
+- Marketing & promotional copy
+- Author/agent relations
+- Consulting & coaching
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📝 Portfolio
 
-### Markdown
+### Technical Documentation Samples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Book Editing Highlights
+- [_Pitch Perfect: The Quest for Collegiate A Cappella Glory_ by Mickey Rapkin](https://www.amazon.com/Pitch-Perfect-Quest-Collegiate-Cappella/dp/1592404634)
+- [_All the Presidents Spin; George W. Bush, the Media, and the Truth_ by Ben Fritz, Bryan Keefer and Brendan Nyan, editors of Spinsanity](https://www.amazon.com/All-Presidents-Spin-George-Media/dp/0743262514/ref=sr_1_1?crid=36SY88ZYKBFUZ)
+- [_Always by My Side: A Father’s Grace and a Sports Journey Unlike Any Other_ by legendary sportscaster Jim Nantz with Eli Spielman](https://www.amazon.com/Always-My-Side-Healing-Fathers/dp/1592404081/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659786822&sr=1-1)
+- [_The Enough Moment: Fighting to End Africa’s Worst Human Rights Crimes_ by John Prendergast and Don Cheadle](https://www.amazon.com/Enough-Moment-Fighting-Africas-Rights/dp/0307464822/ref=sr_1_1?crid=2FWCNIDZZ29AC)
 
-```markdown
-Syntax highlighted code block
+## 📃 Resume 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brettvalley/bretts-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 📧 Contact
+Email: [brett.valley@gmail.com](mailto:brett.valley@gmail.com)

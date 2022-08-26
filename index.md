@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Brett!
-I"m a technical writer, ghostwriter, and book editor with over 20 years' experience in writing and publishing. I'm intellectually curious, technically proficient, and able to create, develop, and publish user support and education materials, websites, and other information-heavy deliverables.
+I'm a technical writer, ghostwriter, and book editor with over 20 years' experience in writing and publishing. I'm intellectually curious, technically proficient, and able to create, develop, and publish user support and education materials, websites, and other information-heavy deliverables.
 
 ## 📚 Services
 - Technical Writing
@@ -21,6 +21,7 @@ I"m a technical writer, ghostwriter, and book editor with over 20 years' experie
 - [_The Enough Moment: Fighting to End Africa’s Worst Human Rights Crimes_ by John Prendergast and Don Cheadle](https://www.amazon.com/Enough-Moment-Fighting-Africas-Rights/dp/0307464822/ref=sr_1_1?crid=2FWCNIDZZ29AC)
 
 ## 📃 Resume 
-
+- [Technical Writing Resume](files/BrettValley_TW_Resume.pdf)
+- [Creative Writing Resume](files/BrettValley_Creative_Resume.pdf)
 ## 📧 Contact
 Email: [brett.valley@gmail.com](mailto:brett.valley@gmail.com)

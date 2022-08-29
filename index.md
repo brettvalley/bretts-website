@@ -23,5 +23,6 @@ I'm a technical writer, ghostwriter, and book editor with over 20 years' experie
 ## 📃 Resume 
 - [Technical Writing Resume](files/BrettValley_TW_Resume.pdf)
 - [Creative Writing Resume](files/BrettValley_Creative_Resume.pdf)
+
 ## 📧 Contact
 Email: [brett.valley@gmail.com](mailto:brett.valley@gmail.com)

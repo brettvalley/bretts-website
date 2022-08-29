@@ -13,6 +13,17 @@ I'm a technical writer, ghostwriter, and book editor with over 20 years' experie
 ## 📝 Portfolio
 
 ### Technical Documentation Samples
+- [The North Carolina Inshore and Nearshore Fishing Guide](files/Duke_Capstone.pdf)
+
+### Website Content
+- [Intro to UX](files/Intro_to_UX_web.pdf)
+- [ExactlyIT Services Landing Page](files/Services_Landing.pdf)
+- [ExactlyIT Cybersecurity Services](files/Services_Cybersecurity.pdf)
+- [ExactlyIT Azure Cloud Services](files/Services_AzureCloud.pdf)
+
+### Newsletter Articles
+- [Safety Barriers and Workload Burden: An Evolving Relationship](files/Newsletter_Safety.pdf)
+- [Safety Barriers and Workload Burden: An Evolving Relationship](files/Newsletter_HFE.pdf)
 
 ### Book Editing Highlights
 - [_Pitch Perfect: The Quest for Collegiate A Cappella Glory_ by Mickey Rapkin](https://www.amazon.com/Pitch-Perfect-Quest-Collegiate-Cappella/dp/1592404634)

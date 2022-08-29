@@ -23,7 +23,7 @@ I'm a technical writer, ghostwriter, and book editor with over 20 years' experie
 
 ### Newsletter Articles
 - [Safety Barriers and Workload Burden: An Evolving Relationship](files/Newsletter_Safety.pdf)
-- [Safety Barriers and Workload Burden: An Evolving Relationship](files/Newsletter_HFE.pdf)
+- [Mixed Methods Research in Healthcare Human Factors Engineering](files/Newsletter_HFE.pdf)
 
 ### Book Editing Highlights
 - [_Pitch Perfect: The Quest for Collegiate A Cappella Glory_ by Mickey Rapkin](https://www.amazon.com/Pitch-Perfect-Quest-Collegiate-Cappella/dp/1592404634)

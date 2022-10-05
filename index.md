@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brett!
+##  Intro
 I'm a technical writer, ghostwriter, and book editor with over 20 years' experience in writing and publishing. I'm intellectually curious, technically proficient, and able to create, develop, and publish user support and education materials, websites, and other information-heavy deliverables.
 
 ## 📚 Services
